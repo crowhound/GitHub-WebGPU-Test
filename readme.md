@@ -1,5 +1,5 @@
 Well this stupidly works. Link below is an embedding GitHub.io WebGPU build of a prototype game.
-https://github.com/crowhound/GitHub-WebGPU-Test
+[https://github.com/crowhound/GitHub-WebGPU-Test](https://crowhound.github.io/GitHub-WebGPU-Test/)
 
 
 If you see this public GitHub page....it is going to be a wierd set of tests that make no sense from others perspective.
